@@ -5,9 +5,10 @@
   font-family: Arial, sans-serif;
 }
 
+
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; 
   align-items: center;
   padding: 1rem 2rem;
   background: #222;
@@ -103,6 +104,7 @@ footer {
   color: white;
   text-align: center;
   padding: 1rem;
+ 
 }
 
 @media (max-width: 768px) {
